@@ -1,5 +1,15 @@
-# Biblioteca
+# 📚 Biblioteca
 
-Coleção pessoal de materiais de estudo.
+Coleção pessoal de livros e materiais de estudo, organizada por temas e assuntos.
 
-- [Essentials of Computing Systems](Essentials_of_computing_systems.pdf)
+| # | Tema | Assuntos | Livros |
+|---|---|---|---|
+| 01 | [Fundamentos de Computação](01-fundamentos-de-computacao/) | Arquitetura e organização de computadores · Lógica digital e CPU | 2 |
+| 02 | [Sistemas Operativos](02-sistemas-operativos/) | Linux, Windows, processos, memória, virtualização | 0 |
+| 03 | [Redes](03-redes/) | OSI/TCP-IP, IP, routing, switching, protocolos | 0 |
+| 04 | [Cibersegurança](04-ciberseguranca/) | Criptografia, segurança de redes e sistemas, ethical hacking | 0 |
+| 05 | [Programação](05-programacao/) | Python, Bash, PowerShell, algoritmos | 0 |
+
+## Todos os livros
+- **But How Do It Know? — The Basic Principles of Computers for Everyone** (J. Clark Scott) → [Fundamentos › Lógica Digital e CPU](01-fundamentos-de-computacao/logica-digital-e-cpu/)
+- **Essentials of Computing Systems** → [Fundamentos › Arquitetura e Organização](01-fundamentos-de-computacao/arquitetura-e-organizacao/)
