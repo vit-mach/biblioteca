@@ -1,5 +1,8 @@
 # Cibersegurança
 
-**Assuntos:** Segurança de redes e sistemas, criptografia, ethical hacking, resposta a incidentes
+**Assuntos:** Criptografia, segurança de redes e sistemas, ethical hacking, resposta a incidentes
 
-_Ainda sem livros nesta categoria._
+## Ethical Hacking e Pentest
+| Livro | Assuntos |
+|---|---|
+| [Hacking: Computer Hacking, Security Testing, Penetration Testing and Basic Security — Gary Hall e Erin Watson (2016)](ethical-hacking-e-pentest/Hall_Watson_2016_-_Hacking_Security_Testing_Penetration_Testing_and_Basic_Security.pdf) | 🇬🇧 Em inglês · nível introdutório. O que é hacking, ética e metodologia do hacker, ataques a smartphones, sistemas operativos, passwords, sites e aplicações web e redes sem fio, engenharia social, segurança física |
